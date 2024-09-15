@@ -6,4 +6,4 @@
 
 3. Then:
 
-```pip install llama_cpp_python-0.2.90-cp312-cp312-win_amd64.whl```
+   ```pip install llama_cpp_python-0.2.90-cp312-cp312-win_amd64.whl```
